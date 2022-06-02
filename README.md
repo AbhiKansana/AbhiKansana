@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhiKansana
 - 👀 I’m interested in making solution for FrontEnd Design
-- 🌱 I’m currently learning Node
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on FrontEnd Projects
 - 📫 You can email me at abhikansana05@gmail.com
 
