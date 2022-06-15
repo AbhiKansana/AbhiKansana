@@ -5,6 +5,7 @@
 - 📫 You can email me at abhikansana05@gmail.com
 - [Linkedin](https://www.linkedin.com/in/abhishek-kansana-36608a233/)
 - [MyResume](https://docs.google.com/document/d/1G81SG5UDHbMfKWIII44Nq4rgVHeO6MSJBhJlaeBxZtg/edit)
+- [Portfolio](https://abhishek-kansana-portfolio.netlify.app/)
 
 <!---
 AbhiKansana/AbhiKansana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
