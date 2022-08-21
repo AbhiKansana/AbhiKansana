@@ -10,8 +10,8 @@
 
 
 - 👀 I’m interested in making solution for FrontEnd Design<br>
-- 🌱 I’m currently learning Node.js<br>
-- 💞️ I’m looking to collaborate on FrontEnd Projects<br>
+- 🌱 I’m currently learning and making backend projects<br>
+- 💞️ I’m looking to collaborate on Full Stack Web Projects<br>
 - 📫 You can email me at abhikansana05@gmail.com<br>
 
 - [Linkedin](https://www.linkedin.com/in/abhishek-kansana-36608a233/)<br>
