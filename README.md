@@ -16,7 +16,7 @@
 
 - [Linkedin](https://www.linkedin.com/in/abhishek-kansana-36608a233/)<br>
 
-- [MyResume](https://drive.google.com/file/d/15hSNUreXUH4f-02LfhFYsDmgmmLMCIyj/view?usp=sharing)<br>
+- [Resume](https://drive.google.com/file/d/15hSNUreXUH4f-02LfhFYsDmgmmLMCIyj/view?usp=sharing)<br>
 
 - [Portfolio](https://react-portfolio-abhikansana.vercel.app/)<br>
 
